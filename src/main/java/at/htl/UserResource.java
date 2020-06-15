@@ -22,4 +22,11 @@ public class UserResource {
     public SecurityIdentity getUserInfo(){
         return identity;
     }
+
+    @GET
+    @Path("/admin")
+    @RolesAllowed("admins")
+    public String getAdmin() {
+        return "I am admin";
+    }
 }
