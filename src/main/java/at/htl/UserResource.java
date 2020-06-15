@@ -17,7 +17,7 @@ public class UserResource {
 
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    @RolesAllowed("user")
+    @RolesAllowed("users")
     @NoCache
     public SecurityIdentity getUserInfo(){
         return identity;
