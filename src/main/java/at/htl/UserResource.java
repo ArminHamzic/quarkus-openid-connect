@@ -24,7 +24,7 @@ public class UserResource {
     }
 
     @GET
-    @Path("/admin")
+    @Path("/admins")
     @RolesAllowed("admins")
     public String getAdmin() {
         return "I am admin";
