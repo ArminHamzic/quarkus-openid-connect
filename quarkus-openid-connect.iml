@@ -232,5 +232,45 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Quarkus (deployment)">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-resteasy-deployment/1.5.1.Final/quarkus-resteasy-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-vertx-http-deployment/1.5.1.Final/quarkus-vertx-http-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-resteasy-server-common-deployment/1.5.1.Final/quarkus-resteasy-server-common-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-arc-deployment/1.5.1.Final/quarkus-arc-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-resteasy-common-deployment/1.5.1.Final/quarkus-resteasy-common-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-resteasy-jsonb-deployment/1.5.1.Final/quarkus-resteasy-jsonb-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-jsonb-deployment/1.5.1.Final/quarkus-jsonb-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-oidc-deployment/1.5.1.Final/quarkus-oidc-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-vertx-core-deployment/1.5.1.Final/quarkus-vertx-core-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-netty-deployment/1.5.1.Final/quarkus-netty-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-security-deployment/1.5.1.Final/quarkus-security-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-jackson-deployment/1.5.1.Final/quarkus-jackson-deployment-1.5.1.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library name="Quarkus (deployment)">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-resteasy-deployment/1.5.1.Final/quarkus-resteasy-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-vertx-http-deployment/1.5.1.Final/quarkus-vertx-http-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-resteasy-server-common-deployment/1.5.1.Final/quarkus-resteasy-server-common-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-arc-deployment/1.5.1.Final/quarkus-arc-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-resteasy-common-deployment/1.5.1.Final/quarkus-resteasy-common-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-resteasy-jsonb-deployment/1.5.1.Final/quarkus-resteasy-jsonb-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-jsonb-deployment/1.5.1.Final/quarkus-jsonb-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-oidc-deployment/1.5.1.Final/quarkus-oidc-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-vertx-core-deployment/1.5.1.Final/quarkus-vertx-core-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-netty-deployment/1.5.1.Final/quarkus-netty-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-security-deployment/1.5.1.Final/quarkus-security-deployment-1.5.1.Final.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/io/quarkus/quarkus-jackson-deployment/1.5.1.Final/quarkus-jackson-deployment-1.5.1.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
